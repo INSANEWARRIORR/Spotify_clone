@@ -26,8 +26,8 @@
 * MongoDB: NoSQL database for storing user data and track information.
 * JWT: For handling authentication and user sessions.
 
- 💡 ## Getting Started
-* Prerequisites
+ ## 💡Getting Started
+### Prerequisites
 * Node.js
 * npm or yarn
 * MongoDB (locally or through a cloud provider like MongoDB Atlas)
