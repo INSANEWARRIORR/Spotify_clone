@@ -3,40 +3,40 @@
 
  # 🚀 Features
 -----------------
-Music Streaming: Stream music tracks with a sleek, user-friendly interface.
-User Authentication: Register and log in to access personalized features.
-Search Functionality: Search for tracks, albums, and artists.
-Responsive Design: Fully responsive and accessible across devices.
+* Music Streaming: Stream music tracks with a sleek, user-friendly interface.
+* User Authentication: Register and log in to access personalized features.
+* Search Functionality: Search for tracks, albums, and artists.
+* Responsive Design: Fully responsive and accessible across devices.
 
  # 🛠 Technologies Used
 -------------------------
-Frontend: React.js, Redux, Axios
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: JWT (JSON Web Tokens)
+* Frontend: React.js, Redux, Axios
+* Backend: Node.js, Express.js
+* Database: MongoDB
+* Authentication: JWT (JSON Web Tokens)
 
  # 📂 Project Structure
 -------------------------
 
  ## Frontend
 ------------
-React: For building the user interface.
-Redux: For state management.
-Axios: For making API requests.
+* React: For building the user interface.
+* Redux: For state management.
+* Axios: For making API requests.
 
  ## Backend
 -----------
-Node.js: Server-side JavaScript runtime.
-Express.js: Web framework for Node.js.
-MongoDB: NoSQL database for storing user data and track information.
-JWT: For handling authentication and user sessions.
+* Node.js: Server-side JavaScript runtime.
+* Express.js: Web framework for Node.js.
+* MongoDB: NoSQL database for storing user data and track information.
+* JWT: For handling authentication and user sessions.
 
  💡 ## Getting Started
 -------------------------
-Prerequisites
-Node.js
-npm or yarn
-MongoDB (locally or through a cloud provider like MongoDB Atlas)
+* Prerequisites
+* Node.js
+* npm or yarn
+* MongoDB (locally or through a cloud provider like MongoDB Atlas)
 
 
  ### Frontend Setup
