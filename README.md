@@ -35,20 +35,20 @@
 
  ### Frontend Setup
 1) Navigate to the frontend directory:
-         #### cd frontend
+          cd frontend
 
 2) Install the required dependencies:
-         #### npm install
+          npm install
 
 3) Start the development server:
-        #### npm run dev
+           npm run dev
 
  ### Backend Setup
 1) Navigate to the backend directory:
-          #### cd backend
+           cd backend
 
 2) Install the required dependencies:
-          #### npm install
+          npm install
    
 3) Start the server:
-         #### npm run dev
+         npm run dev
